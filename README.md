@@ -35,27 +35,27 @@
 
 **Branch** - A contained area in your repository that allows you to develop features, fix bugs, or safely experiment.
 
-**Clone** - Creates a copy  of a repository that pulls all data, text from the root repository at the time the copy repository was created.
+**Clone** - Creates a copy of a repository that pulls all data, text from the root repository at the time the copy repository was created.
 
-**Commit** - An individual change to a file (or set of files).
+**Commit** - An individual change  or changes to a file.
 
-**Fetch** - Allows you to review changes before committing them to your local branch
+**Fetch** - Allows you to review changes before committing them to your local branch.
 
-**GIT** - An open source program for tracking changes in text files.
+**GIT** - An open-source program for tracking changes or commits in text files.
 
-**Github** - An Internet hosting service for software development and version control using Git
+**Github** - An Internet hosting domain service for software development and version control. Github runs off Git.
 
-**Merge** - Takes the changes from one branch in the same repository and applies them into another. 
+**Merge** - Takes the changes from one branch to another in the same repository and applies them both.
 
-**Merge Conflict** - A difference that occurs between merged branches. Often happens when people make different changes to the same line of the same file
+**Merge Conflict** - A difference that occurs between merged branches, which often happens when people make changes to the same areas of code.
 
 **Push** -  Sending your committed changes to a remote repository on GitHub.com.
 
-**Pull** - When you are fetching in changes and merging them.
+**Pull** - When you are taking in changes and merging them into the repository.
 
-**Remote** - The version of a repository or branch that is hosted on a server, most likely GitHub.com.
+**Remote** - The version of a repository or branch that is hosted off a server instead of a device. Examples can be repositories that aren't found locally on a device but found on Github.com
 
-**Repository** - A repository is the most basic element of GitHub, can be referred to as simple as a project folder. It can contain all project files.
+**Repository** - Tthe most basic building block of GitHub and Git-using softwares. It also can be referred to as simple as a project folder. It can contain all project files.
 
 
 
@@ -63,7 +63,6 @@
 **Pages Cited**
 
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
-
 
 https://docs.github.com/en/get-started/quickstart/github-glossary
 
