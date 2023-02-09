@@ -37,9 +37,9 @@
 
 **Clone** - Creates a copy of a repository that pulls all data, text from the root repository at the time the copy repository was created.
 
-**Commit** - An individual change  or changes to a file.
+**Commit** - An individual change or changes to a file.
 
-**Fetch** - Allows you to review changes before committing them to your local branch.
+**Fetch** - Allows you to preview or review changes before saving or committing them to your local branch.
 
 **GIT** - An open-source program for tracking changes or commits in text files.
 
