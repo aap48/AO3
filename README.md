@@ -15,11 +15,17 @@
 
 
 **Branch** - A contained area in your repository that allows you to develop features, fix bugs, or safely experiment.
+
 **Clone** - Creates a copy  of a repository that pulls all data, text from the root repository at the time the copy repository was created.
+
 **Commit** - An individual change to a file (or set of files).
+
 **Fetch** - Allows you to review changes before committing them to your local branch
+
 **GIT** - An open source program for tracking changes in text files.
+
 **Github** - An Internet hosting service for software development and version control using Git
+
 **Merge** - Takes the changes from one branch in the same repository and applies them into another. 
 **Merge Conflict** - A difference that occurs between merged branches. Often happens when people make different changes to the same line of the same file
 **Push** -  Sending your committed changes to a remote repository on GitHub.com.
