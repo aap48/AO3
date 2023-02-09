@@ -1,6 +1,16 @@
 # AO3
 
-
+1. Click onto the link that will take you to Jetbrains: https://www.jetbrains.com/community/education/#students
+2. Hit apply button located within the page
+3. Create a new account(if none made yet) and fill in forms with your school-related information.
+4. Select the apply now button at the end of the form
+5. Periodically check school email that was used in making account for email returned by Jetbrains
+6. When found email by Jetbrains, select the link that is located within the email.
+7. From the link, there are a variety of free educational licenses of software to choose from, select Webstorm that usually is located towards the end of the list.
+8. Download and install Webstorm onto your device
+9. Open Webstorm and create a new project to initialize Webstorm
+10. To make a new file hit Ctrl + N or File --> new file in the project you are in
+11. From there, you can start doing coding within your Webstorm text editor!
 
 
 
