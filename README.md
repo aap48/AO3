@@ -27,11 +27,18 @@
 **Github** - An Internet hosting service for software development and version control using Git
 
 **Merge** - Takes the changes from one branch in the same repository and applies them into another. 
+
 **Merge Conflict** - A difference that occurs between merged branches. Often happens when people make different changes to the same line of the same file
+
 **Push** -  Sending your committed changes to a remote repository on GitHub.com.
+
 **Pull** - When you are fetching in changes and merging them.
+
 **Remote** - The version of a repository or branch that is hosted on a server, most likely GitHub.com.
+
 **Repository** - A repository is the most basic element of GitHub, can be referred to as simple as a project folder. It can contain all project files.
+
+
 
 
 **Pages Cited**
