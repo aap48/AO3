@@ -1,5 +1,5 @@
 # AO3
-
+**WebStorm**
 1. Click onto the link that will take you to Jetbrains: https://www.jetbrains.com/community/education/#students
 2. Hit apply button located within the page
 3. Create a new account(if none made yet) and fill in forms with your school-related information.
@@ -11,6 +11,25 @@
 9. Open Webstorm and create a new project to initialize Webstorm
 10. To make a new file hit Ctrl + N or File --> new file in the project you are in
 11. From there, you can start doing coding within your Webstorm text editor!
+
+**Git**
+1. Create a "repository" (project) with a git hosting tool (Github)
+
+2.  Create a clone repository to your device
+
+3. Add a file to the repository and save or commit changes.
+
+4. Send or "push" the changes to the main branch 
+
+5. Make changes to your file using any git-hosting tool and commit changes.
+
+**GitHub**
+1. Sign up or create an account for GitHub.
+2. Create a new repository by clicking the "+" in the upper corner.
+3. Choose new repository
+4. Make the new repository file and add a "readme" file ontop of it when creating the repository
+
+
 
 
 
@@ -47,6 +66,8 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/propos
 
 
 https://docs.github.com/en/get-started/quickstart/github-glossary
+
+https://www.atlassian.com/git
 
 
 
